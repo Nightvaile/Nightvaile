@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightvaile" alt="nightvaile" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Database Optimization techniques, Advanced LINQ queries, and Clean Code Architecture.**
+- 🔭 I’m currently working on **Implementing Identity Management Systems and developing production-ready APIs with .NET Core.**
 
-- 🌱 I’m currently learning **Deep Database Optimization techniques, Advanced LINQ queries, and Clean Code Architecture.**
+- 🌱 I’m currently learning **Deep Database Optimization (PostgreSQL/MySQL), Advanced LINQ queries, and SOLID Clean Code principles.**
 
-- 👯 I’m looking to collaborate on **pen Source .NET Core projects and backend tools.**
+- 👯 I’m looking to collaborate on **Open Source .NET Core projects and backend tools.**
 
 - 🤝 I’m looking for help with **Advanced Microservices patterns and Docker containerization.**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **harun.1kya@gmail.com**
 
-- ⚡ Fun fact **I main Yoru in Valorant. I spend half my time in another dimension and the other half gaslighting enemies with clones until they question their own reality.**
+- ⚡ Fun fact **I main Yoru in Valorant. 'Did you think I was there? Wrong.' I fake the commit, flash the code review, and TP out before the bugs hit. 'Send five more, we can do this again.'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
