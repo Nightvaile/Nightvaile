@@ -1,23 +1,3 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23796
-Fork on GitHub
-8153
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mehmet Harun Kaya</h1>
 <h3 align="center">A Junior Back-End Developer bridging the gap between Hardware Discipline & Software Architecture.</h3>
 
